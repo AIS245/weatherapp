@@ -4,7 +4,7 @@ import Form from "./app_component/form.component";
 import Weather from "./app_component/weather.component";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-// git project https://github.com/erikflowers/weather-icons
+
 import "weather-icons/css/weather-icons.css";
 
 const Api_Key = "f426979f6ae8f5b4bf9836bed2461b64";
@@ -76,7 +76,7 @@ class App extends React.Component {
 
     if (country && city) {
       const api_call = await fetch(
-        `http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${Api_Key}`
+        `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${Api_Key}`
       );
 
       const response = await api_call.json();
@@ -92,7 +92,7 @@ class App extends React.Component {
         error: false
       });
 
-      // seting icons
+      
       this.get_WeatherIcon(this.weatherIcon, response.weather[0].id);
 
       console.log(response);
