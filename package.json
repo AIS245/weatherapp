@@ -1,7 +1,7 @@
 {
   "name": "weatherapp",
   "version": "0.1.0",
-  "homepage": "https://AIS245.github.io/weatherapp_gh",
+  "homepage": "https://AIS245.github.io/weatherapp",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.1.3",
