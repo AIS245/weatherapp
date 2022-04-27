@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/weatherapp_gh/static/css/main.8935dfbf.css",
-    "main.js": "/weatherapp_gh/static/js/main.9b5c71df.js",
-    "static/js/787.d62d1c65.chunk.js": "/weatherapp_gh/static/js/787.d62d1c65.chunk.js",
-    "static/media/star.png": "/weatherapp_gh/static/media/star.8e6bee5a8646f9497301.png",
-    "static/media/weathericons-regular-webfont.svg": "/weatherapp_gh/static/media/weathericons-regular-webfont.1341a15172cec8dae06e.svg",
-    "static/media/weathericons-regular-webfont.eot": "/weatherapp_gh/static/media/weathericons-regular-webfont.bb2ec001c20cf752f852.eot",
-    "static/media/weathericons-regular-webfont.ttf": "/weatherapp_gh/static/media/weathericons-regular-webfont.0942d1e1c447d6ce3ffc.ttf",
-    "static/media/weathericons-regular-webfont.woff": "/weatherapp_gh/static/media/weathericons-regular-webfont.371511ddba5fdac0538c.woff",
-    "static/media/weathericons-regular-webfont.woff2": "/weatherapp_gh/static/media/weathericons-regular-webfont.e218aee6928fe3da9ed6.woff2",
-    "index.html": "/weatherapp_gh/index.html",
-    "main.8935dfbf.css.map": "/weatherapp_gh/static/css/main.8935dfbf.css.map",
-    "main.9b5c71df.js.map": "/weatherapp_gh/static/js/main.9b5c71df.js.map",
-    "787.d62d1c65.chunk.js.map": "/weatherapp_gh/static/js/787.d62d1c65.chunk.js.map"
+    "main.css": "/weatherapp/static/css/main.78252255.css",
+    "main.js": "/weatherapp/static/js/main.7f9f9287.js",
+    "static/js/787.d62d1c65.chunk.js": "/weatherapp/static/js/787.d62d1c65.chunk.js",
+    "static/media/star.png": "/weatherapp/static/media/star.8e6bee5a8646f9497301.png",
+    "static/media/weathericons-regular-webfont.svg": "/weatherapp/static/media/weathericons-regular-webfont.1341a15172cec8dae06e.svg",
+    "static/media/weathericons-regular-webfont.eot": "/weatherapp/static/media/weathericons-regular-webfont.bb2ec001c20cf752f852.eot",
+    "static/media/weathericons-regular-webfont.ttf": "/weatherapp/static/media/weathericons-regular-webfont.0942d1e1c447d6ce3ffc.ttf",
+    "static/media/weathericons-regular-webfont.woff": "/weatherapp/static/media/weathericons-regular-webfont.371511ddba5fdac0538c.woff",
+    "static/media/weathericons-regular-webfont.woff2": "/weatherapp/static/media/weathericons-regular-webfont.e218aee6928fe3da9ed6.woff2",
+    "index.html": "/weatherapp/index.html",
+    "main.78252255.css.map": "/weatherapp/static/css/main.78252255.css.map",
+    "main.7f9f9287.js.map": "/weatherapp/static/js/main.7f9f9287.js.map",
+    "787.d62d1c65.chunk.js.map": "/weatherapp/static/js/787.d62d1c65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8935dfbf.css",
-    "static/js/main.9b5c71df.js"
+    "static/css/main.78252255.css",
+    "static/js/main.7f9f9287.js"
   ]
 }
