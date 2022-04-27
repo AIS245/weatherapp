@@ -5,8 +5,8 @@ form {
   form input[name="city"],
   form input[name="country"] {
     background-color: transparent;
-    color: rgb(255, 255, 255);
+    color: rgb(243, 234, 234);
     border: none;
-    border-bottom: 2px solid rgb(253, 248, 248);
+    border-bottom: 2px solid rgb(243, 239, 239);
     border-radius: 0;
   }
